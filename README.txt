@@ -1,5 +1,6 @@
                              RecBlock v1.0 Beta
 
+Citation: Yufeng Wu and Dan Gusfield, Improved Algorithms for Inferring the Minimum Mosaic of a Set of Recombinants, CPM 2007, pp. 150 to 161.
 
 INTRODUCTION :  This program, RecBlock, is a tool for reconstructing mosaic structure
 		of a given set of SNP sequences. Due to recombination, a set of 
